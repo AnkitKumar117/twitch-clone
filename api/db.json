@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "abcd",
+      "description": "abcdefff",
+      "userId": "115259655403818098647",
+      "id": 1
+    },
+    {
+      "title": "A12",
+      "description": "D1212",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "Aaa",
+      "description": "ddddd",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "afa",
+      "description": "fdasfafasd",
+      "userId": "115259655403818098647",
+      "id": 4
+    },
+    {
+      "title": "Prachi",
+      "description": "I am good girl",
+      "userId": "115259655403818098647",
+      "id": 5
+    }
+  ]
+}
