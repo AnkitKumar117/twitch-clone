@@ -1,2 +1,2 @@
 # twitch-clone
-ReactJs based project
+Basic CRUD project redux and react.
